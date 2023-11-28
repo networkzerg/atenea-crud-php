@@ -1,0 +1,21 @@
+[
+    {
+      "referenciaLocal": "LLAVE001",
+      "referenciaExterna": "EXT001",
+      "notas": "Llave para apartamento A-101",
+      "direccion": "Calle Principal 123"
+    },
+    {
+      "referenciaLocal": "LLAVE002",
+      "referenciaExterna": "EXT002",
+      "notas": "Llave para oficina 202",
+      "direccion": "Avenida Central 456"
+    },
+    {
+      "referenciaLocal": "LLAVE003",
+      "referenciaExterna": "EXT003",
+      "notas": "Llave para casa 1001",
+      "direccion": "Calle Secundaria 789"
+    }
+  ]
+  
